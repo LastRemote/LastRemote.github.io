@@ -11,30 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science and Mathematics, University of Pittsburgh, 2018
+* M.S. in Computer Science, Columbia University, 2019 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2018: Algorithm Engineer Intern
+  * JD.COM
+  * Duties included: Building vocabulary, processing documents, tweaking beamsearch
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+#* Fall 2015: Research Assistant
+#  * Github University
+#  * Duties included: Merging pull requests
+#  * Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Natural Language Processing
+  * Lexical Analysis
+  * Machine Translation Models
+  * Attention Mechanism
+  * Speech/Speaker Recognition
+* Machine Learning
+  * Clustering
+  * Deep Learning
+  * Genetic Algorithm
+* Combinatorics
 
 Publications
 ======
@@ -56,4 +58,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Google Developers Expert (Machine Learning)
