@@ -19,11 +19,6 @@ Work experience
 * Summer 2018: Algorithm Engineer Intern
   * JD.COM
   * Duties included: Building vocabulary, processing documents, tweaking beamsearch
-
-#* Fall 2015: Research Assistant
-#  * Github University
-#  * Duties included: Merging pull requests
-#  * Supervisor: Professor Hub
   
 Skills
 ======
@@ -50,9 +45,9 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Projects
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.projects %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
